@@ -1,0 +1,12 @@
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\UnityEditor.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\UnityEngine.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\Mono.Cecil.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\nunit.framework.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\Unity.DataContract.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\Studium\Bachelorarbeit\BachelorArbeit\obj\Debug\Assembly-CSharp.dll
+D:\Studium\Bachelorarbeit\BachelorArbeit\obj\Debug\Assembly-CSharp.pdb
+D:\Studium\Bachelorarbeit\BachelorArbeit\Temp\bin\Debug\UnityEngine.UI.dll
